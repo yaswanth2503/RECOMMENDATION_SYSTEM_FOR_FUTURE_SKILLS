@@ -1,4 +1,5 @@
 RECOMMENDATION_SYSTEM_FOR_FUTURE_SKILLS
+
 This project aims to build a recommendation system that suggests skills for individuals to acquire, based on current trends, personal interests, and future job market predictions. Using a combination of data analysis, machine learning, and trend forecasting, the system can help users identify skills that are likely to be in demand, allowing them to stay competitive in their respective fields.
 
 Features
